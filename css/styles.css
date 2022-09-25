@@ -1,0 +1,64 @@
+body{
+	background-color: #E4F5F9;
+	font-family: 'Sacramento', cursive;
+	margin: 0;
+	padding: 3rem;
+	text-align: center;
+}
+
+a{
+	font-size: 0.9rem;
+	font-family: 'Merriweather', sans-serif;
+}
+
+.bottom-cloud{
+	position: absolute;
+}
+
+h1{
+	color: #66BFBF;
+	font-family: 'Sacramento', cursive;
+	font-size: 3rem;
+	line-height: 2;
+	margin: 0;
+}
+
+h2{
+	font-family: 'Merriweather', sans-serif;
+	font-size: 1.3rem;
+}
+
+hr{
+	border-color: grey;
+	border-style: dotted none none;
+	border: 0.06rem 0;
+	width:100%;
+}
+
+li{
+	list-style: none;
+}
+
+.my-skills{
+	width: 6rem;
+	height: 6rem;
+}
+
+.my-image{
+	border-radius: 50%;
+	width: 9.375rem;
+	height: 9.375rem;
+
+.my-image:hover{
+	box-shadow: 0.313rem 0.625rem 0.625rem 0.625rem #888888;
+	width: 10.313rem;
+	height: 10.313rem;
+}
+
+.my-name{
+	font-weight: normal;
+}
+
+p{
+	font-size: 3rem;	
+}
